@@ -1,4 +1,4 @@
-# Sentiment Analysis
+# Análise de Sentimentos
 
 A partir do questionário aplicado aos colaboradores que deixaram uma empresa, realiza-se um pequeno estudo com a interpretação a respeito do sentimento contido no texto.​
 
